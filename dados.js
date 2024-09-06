@@ -23,5 +23,10 @@ let dados = [
       titulo: "Cigarro (M82)",
       descricao: "A Galáxia de Cigarro é uma galáxia espiral barrada que está passando por um período de intensa formação estelar. Sua aparência alongada e irregular a faz lembrar um charuto.",
       link: "https://pt.wikipedia.org/wiki/Galáxia_do_Cigarro"
-    }
+    },
+    {
+    titulo: "Nebulosa de Orion",
+    descricao: "Uma das regiões de formação de estrelas mais próximas da Terra. É visível a olho nu em condições adequadas.",
+    link: "https://pt.wikipedia.org/wiki/Nebulosa_de_Orion"
+  }
   ];
